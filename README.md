@@ -1,5 +1,5 @@
 ## Seja bem vindo ao meu perfil! 👋
-Estudante e entusiasta da tecnologia, aprendendo cada dia mais um pouco
+Estudante e entusiasta da tecnologia, aprendendo cada dia mais!
 
  ⚡ Atualmente estudo focado mais em Java e MySQL
  

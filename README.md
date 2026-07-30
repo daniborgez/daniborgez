@@ -5,7 +5,7 @@ Estudante e entusiasta da tecnologia, aprendendo cada dia mais!
  
 <div align=center style="display: inline_block"><br>
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniborgez&show_icons=true&theme=transparent)
+ [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=daniborgez)](https://github.com/stats-organization/github-stats-extended)
  
   
 </div>
